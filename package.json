@@ -84,6 +84,7 @@
     "npm": ">= 3.0.0"
   },
   "keywords": [
+    "hr",
     "vue",
     "admin",
     "dashboard",
